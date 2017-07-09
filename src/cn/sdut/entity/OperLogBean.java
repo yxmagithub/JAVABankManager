@@ -1,4 +1,6 @@
 package cn.sdut.entity;
+
+//@brief OperLogBean includes all the getter/setter to all the DB column items
 public class OperLogBean {
 private int id;
 private int accountId;

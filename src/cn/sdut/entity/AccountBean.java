@@ -1,5 +1,8 @@
 package cn.sdut.entity;
 
+//@brief bean class encapsulate many objects into one object(one bean)
+//, they are serializable, have zero argument constructor, they usually
+//allow acess to properties by using the getter or setter.
 public class AccountBean {
 private int id;
 private String name;
